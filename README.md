@@ -93,7 +93,7 @@ Distributed under the MIT License.
 
 ## 👤 Author
 
-**Bektas Sari**
+**Bektas Sari**<br>
 *EMail:* bektas.sari@gmail.com  <br>
 *GitHub:* [bektas-sari](https://github.com/bektas-sari)
 
