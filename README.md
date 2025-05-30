@@ -94,5 +94,6 @@ Distributed under the MIT License.
 ## 👤 Author
 
 **Bektas Sari**
+*EMail:* bektas.sari@gmail.com  <br>
 *GitHub:* [bektas-sari](https://github.com/bektas-sari)
 
