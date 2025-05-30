@@ -3,7 +3,8 @@
 ![Flutter](https://img.shields.io/badge/Built%20with-Flutter-02569B?logo=flutter\&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-A lightweight **micro‑stretch** application that keeps your whole body active with quick, desk‑friendly exercises. Written entirely in **Dart / Flutter**, it showcases clean architecture, modern UI patterns, and readiness for further expansion (notifications, animations, theming).
+A lightweight **micro‑stretch** application that keeps your whole body active with quick, desk‑friendly exercises. 
+Written entirely in **Dart / Flutter**, it showcases clean architecture, modern UI patterns, and readiness for further expansion (notifications, animations, theming).
 
 ---
 
